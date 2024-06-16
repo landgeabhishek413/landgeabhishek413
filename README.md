@@ -15,9 +15,7 @@ Welcome to my GitHub profile! I'm passionate about Cloud,Devops,Python,Developem
 
 ![image](https://github.com/landgeabhishek413/rock-paper-scissors/assets/110760264/6dce1d53-cc2e-4683-b2d8-fe9c67116ccb)
 ![image](https://github.com/landgeabhishek413/rock-paper-scissors/assets/110760264/be70288d-208f-479a-9249-8ba7a7f11df2)
-<p style='dispaly:inline'>
-  <img src="https://github.com/landgeabhishek413/rock-paper-scissors/assets/110760264/37a9eaaf-4c66-4c74-b33e-a02ed45337cb" alt="image" width="120" style="border-radius: 50%;">
-</p>
+<img src="https://github.com/landgeabhishek413/rock-paper-scissors/assets/110760264/37a9eaaf-4c66-4c74-b33e-a02ed45337cb" alt="image" width="100" style="border-radius: 50%;"> 
 
 
 
