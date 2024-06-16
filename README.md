@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about Cloud,Devops,Python,Developem
 
   ## 👩‍💻 My Roles
 
-![GDSC Member](https://developers.google.com/profile/badges/community/gdsc/2023/core-member)
+![GDSC Member](![image](https://github.com/landgeabhishek413/rock-paper-scissors/assets/110760264/6dce1d53-cc2e-4683-b2d8-fe9c67116ccb)
 ![GDSC Lead](https://img.shields.io/badge/GDSC%20Lead-3DDC84?style=flat-square&logo=google&logoColor=white)
 
 
