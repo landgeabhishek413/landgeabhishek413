@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I'm passionate about Cloud,Devops,Python,Developem
 
 ## 🛠️ Technologies & Tools
 
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-black?style=flat-square&logo=ruby-on-rails)
