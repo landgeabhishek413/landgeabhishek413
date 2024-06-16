@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm passionate about Cloud,Devops,Python,Developem
 - 🌱 I’m currently learning Devops 
 - 💬 Ask me about Python,Cloud,Devops,AWS.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-landge-06a804237)
-- 😄 Pronouns: -DevopsAbhiii <span style="font-size: larger;">&infin;</span>
+- 😄 Pronouns: -DevopsAbhiii <span style="font-size: 2em; font-weight: bold; line-height: 1; display: inline-block; transform: scale(2, 1.5);">&infin;</span>
+
 
   ## 👩‍💻 My Badges
 
