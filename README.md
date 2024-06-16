@@ -8,13 +8,15 @@ Welcome to my GitHub profile! I'm passionate about Cloud,Devops,Python,Developem
 - 🔭 I’m currently working on [your current project or job]
 - 🌱 I’m currently learning Devops 
 - 💬 Ask me about Python,Cloud,Devops,AWS.
-- 📫 How to reach me: ![Linkdin](https://www.linkedin.com/in/abhishek-landge-06a804237)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-landge-06a804237)
 - 😄 Pronouns: [DevopsAbhiii]
 
   ## 👩‍💻 My Badges
 
-(![image](https://github.com/landgeabhishek413/rock-paper-scissors/assets/110760264/6dce1d53-cc2e-4683-b2d8-fe9c67116ccb)
-(![image](https://github.com/landgeabhishek413/rock-paper-scissors/assets/110760264/be70288d-208f-479a-9249-8ba7a7f11df2)
+![image](https://github.com/landgeabhishek413/rock-paper-scissors/assets/110760264/6dce1d53-cc2e-4683-b2d8-fe9c67116ccb)
+![image](https://github.com/landgeabhishek413/rock-paper-scissors/assets/110760264/be70288d-208f-479a-9249-8ba7a7f11df2)
+![image](https://github.com/landgeabhishek413/rock-paper-scissors/assets/110760264/37a9eaaf-4c66-4c74-b33e-a02ed45337cb)
+
 
 
 
@@ -32,8 +34,8 @@ Welcome to my GitHub profile! I'm passionate about Cloud,Devops,Python,Developem
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github.com/landgeabhishek413/movie-recommend.git)
-[![ReadMe Card](https://github.com/landgeabhishek413/rock-paper-scissors.git)
+[![Repo 1](https://img.shields.io/badge/Repo%201-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/landgeabhishek413/movie-recommend.git)
+[![Repo 2](https://img.shields.io/badge/Repo%202-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/landgeabhishek413/rock-paper-scissors.git)
 
 ## 🌍 Connect with me
 
