@@ -33,6 +33,7 @@ Welcome to my GitHub profile! I'm passionate about Cloud,Devops,Python,Developem
 ![Bash scripting](https://img.shields.io/badge/-Bash_scripting-black?style=flat-square&logo=gnu-bash)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=gitlab)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
