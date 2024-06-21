@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about Cloud,Devops,Python,Developem
 [<img src="https://github.com/landgeabhishek413/rock-paper-scissors/assets/110760264/37a9eaaf-4c66-4c74-b33e-a02ed45337cb" alt="image" width="135" style="border-radius: 50%; padding-left:20px padding-right:50px">](https://www.credly.com/badges/8289dcaf-0f59-490c-8379-355bbe6b07c9/linked_in_profile)
 
 <a href="https://www.credly.com/users/abhishek-landge.16338740" style='display: inline-block; padding: 10px 20px; background-color: #7ed957; color: #fff; font-size: larger; text-align: center; text-decoration: none; border-radius: 5px; border: 2px solid #5cb241; font-family: "Arial Black", Gadget, sans-serif; font-weight: bold; text-shadow: 1px 1px 2px #5cb241;'>Credly Profile</a>
-![image](https://github.com/landgeabhishek413/landgeabhishek413/assets/110760264/e73b58f9-43d3-45b5-af7c-cad231583d92)
+[![image](https://github.com/landgeabhishek413/landgeabhishek413/assets/110760264/e73b58f9-43d3-45b5-af7c-cad231583d92)](https://developers.google.com/static/profile/badges/events/ai/gemini_api_competition/badge.svg)
 
 
 
